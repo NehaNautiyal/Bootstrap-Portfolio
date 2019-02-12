@@ -25,6 +25,10 @@ h1 {
     height: 86px;
 }
 
+/* ul { */
+    /* background: rgb(204, 198, 198); */
+/* } */
+
 a:link {
     color: plum;
     font-weight: bolder;
@@ -39,7 +43,7 @@ a:link {
 
 h2 {
     font-family: 'Questrial', sans-serif;
-    margin: 10px 0px 0px 50px;
+    margin: 10px;
 }
 
 #bio-image {
