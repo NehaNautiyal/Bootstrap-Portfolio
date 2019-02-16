@@ -21,14 +21,6 @@ h1 {
     margin: 0;
 }
 
-.navbar {
-    height: 86px;
-}
-
-/* ul { */
-    /* background: rgb(204, 198, 198); */
-/* } */
-
 a:link {
     color: plum;
     font-weight: bolder;
